@@ -1,0 +1,20 @@
+{
+    "short_name": "Waoflix App",
+    "name": "Waoflix App",
+    "icons": [
+      {
+        "src": "20220422_123708.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "20220422_123828.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "http://127.0.0.1:5500/home/index.html",
+    "background_color": "#3367D6",
+    "display": "standalone",
+    "theme_color": "#3367D6"
+}
